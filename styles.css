@@ -1,0 +1,27 @@
+   body    {
+
+        background-color: beige;
+        border: 1px dashed darkorchid;
+         font-family: "Oswald", sans-serif;
+        }
+
+        h1 {
+            color: slateblue;
+           font-size: 5em;
+            border: 1px solid black;
+            display: inline;
+        
+        }
+
+        p{
+            line-height: 1.5;
+            font-size: 1.5em;
+            color: rgb(0,0,255);
+            
+        }
+        span  {
+
+            color: black;
+            font-size: em;
+
+        }
